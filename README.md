@@ -1,6 +1,6 @@
 # JavaScript Learning Journey 🚀
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="150"/>
 
 Welcome to my JavaScript learning journey! This repository documents my progress, projects, and resources as I explore JavaScript.
 
@@ -53,8 +53,8 @@ I will be updating my progress regularly and sharing my experiences in this repo
 ## 📢 Connect with Me
 Let's connect and grow together!
 - GitHub: [zoxilsi](https://github.com/zoxilsi)
-- LinkedIn: [zoxilsi](#)
-- Twitter: [zoxilsi](#)
+- LinkedIn: [zoxilsi](https://www.linkedin.com/in/zoxilsi/)
+- Twitter: [zoxilsi](https://x.com/zoxilsi)
 
 ---
 Happy Coding! 🚀
